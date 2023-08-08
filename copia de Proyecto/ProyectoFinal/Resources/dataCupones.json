@@ -1,0 +1,18 @@
+[
+    {
+        "codigoCupon": "NTTDATA01",
+        "porcentDescuento": 10,
+        "imagenCupon": "cupon-10"
+    },
+    {
+        "codigoCupon": "NTTDATA02",
+        "porcentDescuento": 20,
+        "imagenCupon": "cupon-20"
+    },
+    {
+        "codigoCupon": "NTTDATA03",
+        "porcentDescuento": 30,
+        "imagenCupon": "cupon-30"
+    }
+]
+

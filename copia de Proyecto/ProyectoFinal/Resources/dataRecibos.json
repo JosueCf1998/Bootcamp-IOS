@@ -1,0 +1,12 @@
+[
+    {
+        "codigoRecibo": 20501001,
+        "cantidadProductos": 2,
+        "costoProducto": 80.00,
+        "precioFinal": 80.00,
+        "ModoPago": "Efectivo",
+        "codigoUser": "USER-NTTDATA01",
+        "descuentoCupon": 0,
+        "fechaCompra": "12/15/22, 2:42 p.m."
+    }
+]
